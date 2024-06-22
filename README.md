@@ -1,4 +1,6 @@
 # akarigoo-o
-Odoo Purchasing Software | UK's Leading Purchasing Software 
-Odoo offers the best Purchase Order Management software with integrated inventory tracking, warehouse management, Sales orders, Stock control & more.
-https://akarigo.com/odoo-purchasing-software
+Odoo Implementation Partner | Odoo ERP Support - Akarigo
+
+Akarigo, the best Odoo Implementation Partners in the UK, offers the best Odoo Development Services in the UK across almost all sectors of the market.
+
+https://akarigo.com/odoo-implementation-partner/
